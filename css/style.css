@@ -1,0 +1,29 @@
+body {
+    background: rgba(72, 196, 196, 0.507);
+}
+
+h1 {
+    color: rgb(89, 160, 57);
+    text-align: center;
+    text-decoration: dotted;
+    font-family: cursive;
+}
+
+h2 {
+    color: rgb(36, 155, 48);
+    text-align: left;
+    font-family: fantasy;
+}
+
+h3 {
+    text-align: right;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+}
+
+nav {
+    text-align: right;
+}
